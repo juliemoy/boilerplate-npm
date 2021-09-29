@@ -4,6 +4,7 @@
 	"description": "A test node project",
 	"keywords": ["confusing","where","am","i","freecodecamp"],
 	"license":"MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
